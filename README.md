@@ -14,16 +14,6 @@
 
 ---
 
-> [!IMPORTANT]
-> **Candidate Case Study Alignment: "What Good Looks Like"**  
-> This project directly addresses all grading criteria specified in the case study:
-> - **Real, Working Interface**: 100% interactive React application with zero static images.
-> - **Thoughtful, Defensible Design Decisions**: Concise technical rationale provided for every feature.
-> - **Rich Data & Edge Cases**: 150+ navigable line items, dual-identity edge cases, low-confidence warnings, and a 120-return scale simulator.
-> - **Real vs. Simulated Transparency**: Explicit breakdown of frontend execution vs. mocked backend stubs.
-
----
-
 ## 🌐 Quick Links
 
 - 🔗 **Live Working Prototype**: [http://taxos-ai.surge.sh](http://taxos-ai.surge.sh)  
@@ -32,7 +22,7 @@
 
 ---
 
-## 🎯 Case Study Evaluation Criteria ("What Good Looks Like")
+## 🎯 Case Study Evaluation Criteria 
 
 ### 1. Real, Working Interface
 - Built as a clickable, responsive React 19 application.
@@ -53,7 +43,7 @@
 
 ---
 
-### 3. Edge Cases & Rich Test Data (Genuinely Testable)
+### 3. Edge Cases & Rich Test Data 
 
 To ensure the platform is genuinely testable beyond a single happy-path screen:
 
